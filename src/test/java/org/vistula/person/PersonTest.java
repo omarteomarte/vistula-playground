@@ -5,7 +5,7 @@ import org.junit.Test;
 public class PersonTest {
 
     Person permanentDaria = new Person();
-
+//
     @Test
     public void shouldCorrectlyReturnAge() {
         Person slawek = new Person();
